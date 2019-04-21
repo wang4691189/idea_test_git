@@ -9,5 +9,6 @@ public class TestGit {
         System.out.println("null = " + null);
         System.out.println("\"modify\" = " + "modify");
         System.out.println("\"modify\" = " + "modify");
+        System.out.println("\"test_push\" = " + "test_push");
     }
 }
