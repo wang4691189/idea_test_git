@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("\"modify\" = " + "modify");
         System.out.println("\"modify\" = " + "modify");
         System.out.println("\"test_push\" = " + "test_push");
+        System.out.println("\"test_pull\" = " + "test_pull");
     }
 }
