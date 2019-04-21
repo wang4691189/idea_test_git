@@ -8,5 +8,6 @@ public class TestGit {
     public static void main(String[] args) {
         System.out.println("null = " + null);
         System.out.println("\"modify\" = " + "modify");
+        System.out.println("\"modify\" = " + "modify");
     }
 }
